@@ -1,5 +1,7 @@
 # Contributing to Agent Skills
 
+* [Discord room](https://discord.gg/MKPE9g8aUy)
+
 Thank you for your interest in contributing to Agent Skills! This document explains how to contribute and where different types of feedback belong.
 
 ## Types of Contributions

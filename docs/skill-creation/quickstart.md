@@ -3,19 +3,16 @@ title: "Quickstart"
 description: "Create your first Agent Skill and see it work in VS Code."
 ---
 
-In this tutorial, you'll create a skill that gives an agent the capability to roll dice using a random number generator.
-
-## Prerequisites
-
-- [VS Code](https://code.visualstudio.com/) with [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-
-<Note>
-This tutorial uses VS Code, but Agent Skills are an open format. The same skill works in any compatible agent, including Claude Code and OpenAI Codex.
-</Note>
+* goal
+  * how to create a skill / 
+    * enable 
+      * an agent can roll dice using a random number generator.
 
 ## Create the skill
 
-A skill is a folder containing a `SKILL.md` file. VS Code looks for skills in `.agents/skills/` by default. Create `.agents/skills/roll-dice/SKILL.md` in your project:
+A skill is a folder containing a `SKILL.md` file
+* VS Code looks for skills in `.agents/skills/` by default
+* Create `.agents/skills/roll-dice/SKILL.md` in your project:
 
 ````markdown .agents/skills/roll-dice/SKILL.md
 ---
